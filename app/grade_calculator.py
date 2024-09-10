@@ -5,7 +5,7 @@ import copy
 # Importing application internal classes
 from grades import Grades
 from grade_weights import GradeWeights
-
+#test change
 class GradeCalculator:
     """
     Calculates the overall course grade for ENPM611.
